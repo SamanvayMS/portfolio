@@ -9,8 +9,8 @@
 ## Work Experience
 
 **Summer Internship @ JIA Finance (_June 2023 - Aug 2023_)**
-- Developed an automated system using **OpenAI API**, **LangChain**, and **FAISS/Chroma db** for interpreting mortgage guidelines, facilitating rapid validation of loan requirements.
-- Engineered task-specific QnA chains and enhanced query handling with a recursive tree and LLM-based memoization, improving response accuracy to complex mortgage-related inquiries to 80% (from 55% for direct queries).
+- Developed an automated system using **OpenAI API**, **LangChain**, and **FAISS/Chroma db** for interpreting mortgage guidelines, facilitating rapid validation of loan requirements using **Retrieval Augmented Generation (RAG)**.
+- Engineered task-specific QnA chains and enhanced query handling with a recursive tree approach and LLM-based memoization, improving response accuracy to complex mortgage-related inquiries to 80% (from 55% for direct queries).
   
 **Student Practicum @ JIA Finance (_Jan 2023 - May 2023_)**
 - Utilized **AWS Sagemaker** and **Redshift** for EDA on over 100M Fannie Mae mortgage records, applying data manipulation and visualization tools for insights.
