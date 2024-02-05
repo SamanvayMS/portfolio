@@ -47,7 +47,7 @@ This synthesis of advanced academic knowledge and practical trading experience p
 - Experimented with Transformers and LSTMs built with Pytorch.
 [link to repository](https://gitlab-beta.engr.illinois.edu/fin556_algo_market_micro_fall_2023/fin556_algo_fall_2023_group_01/group_01_project)
 
-### Trading Strategy Development and Implementation | R, Python
+### Trading Strategy Development and Implementation
 - Evaluated and integrated technical trend indicators like VWAP, EMA, and momentum metrics ADX and DI to formulate advanced trading strategies.
 - Enhanced strategies with rigorous hypothesis testing, GARCH (1,1) model analysis, and Volume Weighted Average Price application.
 - Applied hyper-parameter tuning and Monte-Carlo simulations to refine models and mitigate overfitting.
