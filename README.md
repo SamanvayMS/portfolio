@@ -4,6 +4,8 @@ With over four years of hands-on trading experience, I have honed my expertise i
 
 My commitment to excellence is further evidenced by my relentless pursuit of innovation. I am continuously engaged in backtesting and the development of novel strategies, leveraging my profound knowledge to architect automated strategy execution systems. These systems are meticulously designed for deployment on the cloud, ensuring scalable, efficient, and effective algorithmic strategy application.
 
+Building on this foundation, my experience extends to the proficient use of various deep learning architectures such as LSTMs (Long Short-Term Memory networks), Transformers, RNNs (Recurrent Neural Networks), GRUs (Gated Recurrent Units), and an array of Convolutional Neural Networks (CNNs). This expertise enables me to harness the power of advanced data analysis and pattern recognition techniques in forecasting market movements, optimizing trade execution, and developing predictive models that drive strategic decision-making. My ability to apply these sophisticated algorithms in real-world trading scenarios enhances my capability to identify and capitalize on market inefficiencies, further solidifying my standing in the field of quantitative finance.
+
 This synthesis of advanced academic knowledge and practical trading experience positions me at the forefront of the quantitative trading field. It reflects a relentless drive to push the boundaries of what is possible in algorithmic trading and a deep commitment to contributing to the evolution of the financial markets through technological excellence and strategic insight.
 
 #### Technical Skills: Python, R, C++, SQL
