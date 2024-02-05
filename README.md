@@ -58,7 +58,7 @@ This synthesis of advanced academic knowledge and practical trading experience p
 - Designed Custom OpenAI Gymnasium Environments To train Deep Q network(DQN) models.
 - Experimented with various DQN and Deep Q Recurrent Network models with custom residual blocks for efficient action masking and dynamic Inventory control.
 
-### Aerodynamic developement of a Formula SAE Race car
+### Aerodynamic development of a Formula SAE Race car
 - Simulated various Airfoil profiles and angle of attack to arrive at the best combination for the Aero package to maximise downforce(negative lift) and minimise drag in Ansys Fluent
 - Ran height and depth Optimisations for the venturi tunnels to optimise inlet and diffuser height.
 - Designed and constructed the Rear Wing, FRont wing and Underbody diffuser package for a model formula student vehicle in DS Solidworks adhering to the FSAE rulebook.
