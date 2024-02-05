@@ -66,6 +66,12 @@ This synthesis of advanced academic knowledge and practical trading experience p
 - **Deep Learning Specialisation**:- Deep Neural Networks, Sequence Models, Convolutional Neural Networks, Machine Learnng Planning, Hyperparameter Tuning and Optimisation.
 - **Machine Learning Specialisation**:-Supervised Machine learning (Regression and Classification), Boosting and Ensemble Learning Algorithms, Unsupervised Machine Learning, Reinforcement Learning.
 
+## Skills
+- **Programming languages** :- Python, C++, R , SQL, Bash, Git, pinescript
+- **Frameworks** :- Docker, Tensorflow, Pytorch, Scikit-Learn, REST-APIs, Quantlib
+- **Financial/Trading Systems**:- Bloomberg terminal, TradingView, Metatrader4, RCMX Strategy Studio, Kite
+
+## Other Links
 - [Linkedin](https://www.linkedin.com/in/samanvay-malapally-sudhakara-148836212/)
 - [Data Science Blog](https://medium.com/@samanvayms99)
 
