@@ -8,11 +8,14 @@ Building on this foundation, my experience extends to the proficient use of vari
 
 This synthesis of advanced academic knowledge and practical trading experience positions me at the forefront of the quantitative trading field. It reflects a relentless drive to push the boundaries of what is possible in algorithmic trading and a deep commitment to contributing to the evolution of the financial markets through technological excellence and strategic insight.
 
-#### Technical Skills: Python, R, C++, SQL
-
 ## Education						       		
 - M.S., Financial Engineering	| The University of Illinois at Urbana-Champaign (_May 2024_)	 			        		
 - B.E., Mechanical Engineering | Ramaiah Institute of Technology, Bangalore (_June 2021_)
+
+## Skills
+- **Programming languages** :- Python, C++, R , SQL, Bash, Git, pinescript
+- **Frameworks** :- Docker, Tensorflow, Pytorch, Scikit-Learn, REST-APIs, Quantlib
+- **Financial/Trading Systems**:- Bloomberg terminal, TradingView, Metatrader4, RCMX Strategy Studio, Kite
 
 ## Work Experience
 
@@ -67,11 +70,6 @@ This synthesis of advanced academic knowledge and practical trading experience p
 - **Bloomberg market concepts**:- Equities, Commodities, Fixed income, Portfolio Management, Economic indicators, Terminal Basics
 - **Deep Learning Specialisation**:- Deep Neural Networks, Sequence Models, Convolutional Neural Networks, Machine Learnng Planning, Hyperparameter Tuning and Optimisation.
 - **Machine Learning Specialisation**:-Supervised Machine learning (Regression and Classification), Boosting and Ensemble Learning Algorithms, Unsupervised Machine Learning, Reinforcement Learning.
-
-## Skills
-- **Programming languages** :- Python, C++, R , SQL, Bash, Git, pinescript
-- **Frameworks** :- Docker, Tensorflow, Pytorch, Scikit-Learn, REST-APIs, Quantlib
-- **Financial/Trading Systems**:- Bloomberg terminal, TradingView, Metatrader4, RCMX Strategy Studio, Kite
 
 ## Other Links
 - [Linkedin](https://www.linkedin.com/in/samanvay-malapally-sudhakara-148836212/)
