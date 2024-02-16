@@ -1,8 +1,8 @@
 I'm a graduate student at the University of Illinois, Urbana-Champaign studying quantitative finance specializing in the cutting-edge fields of machine learning, deep learning algorithms, and generative AI. My academic pursuits are firmly rooted in a rigorous exploration of statistics and probability, stochastic calculus, algorithmic trading, high-frequency trading, and quantitative finance. With over four years of hands-on trading experience, I have honed my expertise in point and click strategies, adeptly executing both option writing and tactical strategies across European options in equity, commodity, and currency markets. My engagement with forex CFDs further complements my trading repertoire, underscoring a comprehensive understanding of global financial instruments. I also manage of Portfolio of Long only Equity products. I am continuously engaged in backtesting and the development of novel strategies, leveraging my profound knowledge to architect automated strategy execution systems. These systems are meticulously designed for deployment on the cloud, ensuring scalable, efficient, and effective algorithmic strategy application. Building on this foundation, my experience extends to the proficient use of various deep learning architectures such as LSTMs (Long Short-Term Memory networks), Transformers, RNNs (Recurrent Neural Networks), GRUs (Gated Recurrent Units), and an array of Convolutional Neural Networks (CNNs) And am also in the pursuit of developing features for DQRN Trading Bots that can learn to trade the markets using teh concepts of Q-learning and Reinforcement learning.
 
 ## Education						       		
-- M.S., Financial Engineering	| The University of Illinois at Urbana-Champaign (_May 2024_)	 			        		
-- B.E., Mechanical Engineering | Ramaiah Institute of Technology, Bengaluru (_June 2021_)
+- **M.S., Financial Engineering**	| The University of Illinois at Urbana-Champaign (_May 2024_)	 			        		
+- **B.E., Mechanical Engineering** | Ramaiah Institute of Technology, Bengaluru (_June 2021_)
 
 ## Skills
 - **Programming Languages** :- Python, C++, R , SQL, Bash, Git, pinescript
