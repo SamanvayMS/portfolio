@@ -5,9 +5,10 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 - B.E., Mechanical Engineering | Ramaiah Institute of Technology, Bangalore (_June 2021_)
 
 ## Skills
-- **Programming languages** :- Python, C++, R , SQL, Bash, Git, pinescript
+- **Programming Languages** :- Python, C++, R , SQL, Bash, Git, pinescript
 - **Frameworks** :- Docker, Tensorflow, Pytorch, Scikit-Learn, REST-APIs, Quantlib
-- **Financial/Trading Systems**:- Bloomberg terminal, TradingView, Metatrader4, RCMX Strategy Studio, Kite
+- **Financial/Trading Systems**:- Bloomberg terminal, TradingView, Metatrader4, RCM-X Strategy Studio, Kite
+- **Quantitative Finance**:- Derivatives Pricing, Interest Rate Modelling, Volatility Surfaces, Portfolio Optimisation, Options Strategies
 
 ## Work Experience
 
@@ -49,6 +50,10 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 ### DQN Forex trading Agent
 - Designed Custom OpenAI Gymnasium Environments To train Deep Q network(DQN) models.
 - Experimented with various DQN and Deep Q Recurrent Network models with custom residual blocks for efficient action masking and dynamic Inventory control.
+- Generated Alpha of atleast 108 percent yearly over Simple Buy and Hold returns on Forex products after accounting for spread and execution costs with minimal drawdowns which could be scaled up further utilising leverage.
+- Currently In Process of Hyper Parameter Optimisation and Paper Trading tests before Live Deployment using Oanda's API.
+
+### DQN Equity and Futures Market Making Agent (Independent Study Under [Professor David Lariviere](https://www.linkedin.com/in/davidlariviere/))
 
 ### Aerodynamic development of a Formula SAE Race car
 - Simulated various Airfoil profiles and angle of attack to arrive at the best combination for the Aero package to maximise downforce(negative lift) and minimise drag in Ansys Fluent
