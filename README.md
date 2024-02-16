@@ -2,7 +2,7 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 
 ## Education						       		
 - M.S., Financial Engineering	| The University of Illinois at Urbana-Champaign (_May 2024_)	 			        		
-- B.E., Mechanical Engineering | Ramaiah Institute of Technology, Bangalore (_June 2021_)
+- B.E., Mechanical Engineering | Ramaiah Institute of Technology, Bengaluru (_June 2021_)
 
 ## Skills
 - **Programming Languages** :- Python, C++, R , SQL, Bash, Git, pinescript
@@ -14,7 +14,7 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 
 **Summer Internship @ JIA Finance (_June 2023 - Aug 2023_)**
 - Developed an automated system using OpenAI API, LangChain, and FAISS/Chroma db for interpreting mortgage guidelines, facilitating rapid validation of loan requirements using Retrieval Augmented Generation (RAG).
-- Engineered task-specific QnA chains and enhanced query handling with a recursive tree approach and LLM-based memoization, improving response accuracy to complex mortgage-related inquiries to 80% (from 55% for direct queries).
+- Engineered task-specific QnA chains and enhanced query handling with a Recursive Tree Approach and LLM-based memoization, improving response accuracy to complex mortgage-related inquiries to 80% (from 55% for direct queries).
   
 **Student Practicum @ JIA Finance (_Jan 2023 - May 2023_)**
 - Utilized AWS Sagemaker and Redshift Connector for EDA on over 100M Fannie Mae mortgage records, applying data manipulation and visualization tools for insights.
@@ -22,6 +22,7 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 - Crafted a comprehensive cash flow model for Mortgage Backed Securities (MBS) integrating credit default, prepayment, and loss severity with a Cox Ingersoll Ross (CIR) interest rate model.
 
 **Student Practicum @ bp Trading (_Aug 2023 - Dec 2023_)**
+- Architected forex tick data Procurement and Preprocessing pipeline to efficiently proces and convert tick level Forex Bid Ask Quotes to OHLC data
 - Developed a Forex ladder trading strategy focusing on grid and lot sizing optimizations to enhance return potential using quantitative methods.
 - Sped up tick level backtest up to 2000x using Just-In-Time Compilation on various major currency pairs.
 - Applied hyperparameter tunin, trying carious automated techniques such as Optuna, PySwarm, DEAP (Genetic Algorithms) and utilized strategy validation techniques such as Walk-Forward Analysis and Monte Carlo simulations, to refine proprietary trading models.
@@ -54,14 +55,31 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 - Currently In Process of Hyper Parameter Optimisation and Paper Trading tests before Live Deployment using Oanda's API.
 
 ### DQN Equity and Futures Market Making Agent (Independent Study Under [Professor David Lariviere](https://www.linkedin.com/in/davidlariviere/))
+- Utilized Pipeline from previous Market Making Project to procure Data from CME's Globex Dataset for Futures MBO data and Nasdaq's Itch Dataset for Equity MBO data.
+- Constructed a DRQN with Complete control over inventory and spreads and designed proprietery rewards scheme to penalise model when it exceeds inventory limits and doesn't adhere to market making conditions. 
+- Built custom Backtesting and learning pipeline for training DQNs using Strategy Studio's Backtesting Engine to generate experience replays from MBO data for randomly sampled dates.
+
+### Trading with Kite Trade Api
+- Architected Modules for Live and Paper Trading on Indian market using Kite Trade API
+- Modules to systematically handle multiple trading strategies simultaneously and manage portfolios of individual trading agents.
+- Automate Login and access token generation using webdriver, chromedriver and beautiful soup for seamless strategy execution.
+- Built safety mechanisms and kill switches for shutting down trading agents during high drawdown situations. 
+
+### Variational AutoEncoders for Financial Feature Space Decomposition.
+- Experimented with Using Variational AutoEncoders to reduce High Dimensional Time Series Data consisting of widely used Technical Indicators with multiple lookback periods.
+- Converted features into images to feed into CNN based encoder decoder model.
+
+### LSTM based Option Pricing Models.
+- Trained LSTM models on Time Series Data with proprietary features to exploit market fractals and project asset paths for improved Montecarlo Simulations for Valuing Vanilla and Exotic Options.
+- Constructed models to project 95 percent confidence interval ranges for assests to execute straddle and strangle option strategies.
 
 ### Aerodynamic development of a Formula SAE Race car
-- Simulated various Airfoil profiles and angle of attack to arrive at the best combination for the Aero package to maximise downforce(negative lift) and minimise drag in Ansys Fluent
+- Simulated various Airfoil profiles and angle of attack to arrive at the optimal parameters for the Aero package to maximise downforce(negative lift) and minimise drag using Ansys Fluent for airflow simulations.
 - Ran height and depth Optimisations for the venturi tunnels to optimise inlet and diffuser height.
 - Designed and constructed the Rear Wing, FRont wing and Underbody diffuser package for a model formula student vehicle in DS Solidworks adhering to the FSAE rulebook.
-- Ran in Depth 3D CFD simulations of the vehicle with and without the Aerodynamic Package attached and under various road conditions in Ansys Fluent.
-- Conducted indepth study of drag andf downforce parameters with a comprehensive visual study to analyse the airflow around the car and the wash behind the car.
-- Conducted Track simulations on various FSAE Tracks to verify improvements of proposed package.
+- Ran in-depth 3D CFD(Computational Fluid Dynamics) simulations of the vehicle with and without the Aerodynamic Package attached and under various road conditions in Ansys Fluent.
+- Conducted indepth study of drag and downforce parameters with a comprehensive visual study to analyse the airflow around the car and the wake behind the car.
+- Conducted Track simulations on various FSAE Tracks to verify improvements of proposed package and correlate with performance improvements observed in CFD simulations.
 
 ## [Certifications](https://www.linkedin.com/in/samanvay-malapally-sudhakara-148836212/details/certifications/)
 - **Bloomberg market concepts**:- Equities, Commodities, Fixed income, Portfolio Management, Economic indicators, Terminal Basics
