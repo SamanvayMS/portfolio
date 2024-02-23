@@ -7,7 +7,7 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 ## Skills
 - **Programming Languages** :- Python, C++, R , SQL, Bash, Git, pinescript
 - **Frameworks** :- Docker, Tensorflow, Pytorch, Scikit-Learn, REST-APIs, Quantlib
-- **Financial/Trading Systems**:- Bloomberg terminal, TradingView, Metatrader4, RCM-X Strategy Studio, Kite
+- **Financial/Trading Systems**:- Bloomberg terminal, TradingView, Metatrader4, RCM-X Strategy Studio, Oanda V20 API, KiteConnect API
 - **Quantitative Finance**:- Derivatives Pricing, Interest Rate Modelling, Volatility Surfaces, Portfolio Optimisation, Options Strategies
 
 ## Work Experience
