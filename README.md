@@ -60,16 +60,20 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 - Built custom Backtesting and learning pipeline for training DQNs using Strategy Studio's Backtesting Engine to generate experience replays from MBO data for randomly sampled dates.
 
 ### Trading with Kite Trade Api
-- Architected Modules for Live and Paper Trading on Indian market using Kite Trade API
-- Modules to systematically handle multiple trading strategies simultaneously and manage portfolios of individual trading agents.
+- Architected Modules for Live and Paper Trading on Indian Equity, Futures and Options market using Kite Connect API
+- Custom Strategy Engine to systematically handle multiple trading strategies simultaneously with efficiently handling of websocket stream and independent management of portfolios and orders of individual trading agents.
 - Automate Login and access token generation using webdriver, chromedriver and beautiful soup for seamless strategy execution.
-- Built safety mechanisms and kill switches for shutting down trading agents during high drawdown situations. 
+- Built safety mechanisms and kill switches for shutting down individual trading agents and the entire engine during high drawdown situations. 
 
-### Variational AutoEncoders for Financial Feature Space Decomposition.
+### Trading with OANDA V20 REST API
+- Architected Trading Bots to interact with OANDA's V20 Engine and efficiently execute medium frequency strategies (30s - 5min).
+- Built libraries to scrape live L2 orderbook price feeds and also used historical API to procure their historical Data.
+  
+### Variational AutoEncoders for Financial Feature Space Decomposition (in progress) .
 - Experimented with Using Variational AutoEncoders to reduce High Dimensional Time Series Data consisting of widely used Technical Indicators with multiple lookback periods.
 - Converted features into images to feed into CNN based encoder decoder model.
 
-### LSTM based Option Pricing Models.
+### LSTM based Option Pricing Models (in progress).
 - Trained LSTM models on Time Series Data with proprietary features to exploit market fractals and project asset paths for improved Montecarlo Simulations for Valuing Vanilla and Exotic Options.
 - Constructed models to project 95 percent confidence interval ranges for assests to execute straddle and strangle option strategies.
 
