@@ -29,8 +29,8 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 [link to repository](https://gitlab-beta.engr.illinois.edu/fin556_algo_market_micro_fall_2023/fin556_algo_fall_2023_group_01/group_01_project)
 
 **Trader - Self Funded (_Aug 2020 - Present_)**
-- Built custom libraries for Historical Data Procurement, live tick and L2 orderbook data streaming and warehousing using popular broker APIs
-- Architected custom modules to backtest strategies on historical data and to simulate real-time paper trading with brokerage and slippage analysis with capability to shift to live trading on Google Cloud Platform.
+- Trade Options, Futures(Equity, Currency and Commodity) , Equities and Forex CFDs both manually and Algorithmically. Have experience executing strategies from Mean Reversion and Momentum following to various Options Spread Strategies.
+- Proficient in the usage of various Technical Indicators and backtesting strategies based on Technical signals.
 
 ## Projects
 ### High Frequency Trading and Market Making
