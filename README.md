@@ -59,17 +59,21 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 - Constructed a DRQN with Complete control over inventory and spreads and designed proprietery rewards scheme to penalise model when it exceeds inventory limits and doesn't adhere to market making conditions. 
 - Built custom Backtesting and learning pipeline for training DQNs using Strategy Studio's Backtesting Engine to generate experience replays from MBO data for randomly sampled dates.
 
+### Trading with OANDA V20 REST API
+- Architected Trading Bots to interact with OANDA's V20 Engine and efficiently execute medium frequency strategies (30s - 5min).
+- Built libraries to scrape live L2 orderbook price feeds and also used historical API to procure their historical Data.
+- Successfully Backtested various Strategies using the API on the DEMO account and deployed live Strategies 
+
 ### Trading with Kite Trade Api
 - Architected Modules for Live and Paper Trading on Indian Equity, Futures and Options market using Kite Connect API
 - Custom Strategy Engine to systematically handle multiple trading strategies simultaneously with efficiently handling of websocket stream and independent management of portfolios and orders of individual trading agents.
 - Automate Login and access token generation using webdriver, chromedriver and beautiful soup for seamless strategy execution.
 - Built safety mechanisms and kill switches for shutting down individual trading agents and the entire engine during high drawdown situations. 
 
-### Trading with OANDA V20 REST API
-- Architected Trading Bots to interact with OANDA's V20 Engine and efficiently execute medium frequency strategies (30s - 5min).
-- Built libraries to scrape live L2 orderbook price feeds and also used historical API to procure their historical Data.
-  
-### Variational AutoEncoders for Financial Feature Space Decomposition (in progress) .
+### Momentum Based Portfolio Management.
+- Tested out various screening mechanisms for Portfolio Stock selection and successfully backtested on portfolios built from Equities in the S&P500, Nasdaq100 , Nifty 50 + Nifty Emerging 50 indices.
+- Built portfolios using Markovitz portfolio theory and compared perfromances of Mean Variance portfolio, Max sharpe portfolio and Equally Weighted portfolio.
+### Variational AutoEncoders for Financial Feature Space Decomposition (in progress).
 - Experimented with Using Variational AutoEncoders to reduce High Dimensional Time Series Data consisting of widely used Technical Indicators with multiple lookback periods.
 - Converted features into images to feed into CNN based encoder decoder model.
 
