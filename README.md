@@ -73,13 +73,14 @@ I'm a graduate student at the University of Illinois, Urbana-Champaign studying 
 ### Momentum Based Portfolio Management.
 - Tested out various screening mechanisms for Portfolio Stock selection and successfully backtested on portfolios built from Equities in the S&P500, Nasdaq100 , Nifty 50 + Nifty Emerging 50 indices.
 - Built portfolios using Markovitz portfolio theory and compared perfromances of Mean Variance portfolio, Max sharpe portfolio and Equally Weighted portfolio.
+
 ### Variational AutoEncoders for Financial Feature Space Decomposition (in progress).
 - Experimented with Using Variational AutoEncoders to reduce High Dimensional Time Series Data consisting of widely used Technical Indicators with multiple lookback periods.
 - Converted features into images to feed into CNN based encoder decoder model.
 
 ### LSTM based Option Pricing Models (in progress).
-- Trained LSTM models on Time Series Data with proprietary features to exploit market fractals and project asset paths for improved Montecarlo Simulations for Valuing Vanilla and Exotic Options.
-- Constructed models to project 95 percent confidence interval ranges for assests to execute straddle and strangle option strategies.
+- Training LSTM models on Time Series Data with proprietary features to exploit market fractals and project asset paths for improved Montecarlo Simulations for Valuing Vanilla and Exotic Options.
+- Constructed models to project 95 percent confidence interval ranges for assets to execute straddle and strangle option strategies and possible value derivatives accurately..
 
 ### Aerodynamic development of a Formula SAE Race car
 - Simulated various Airfoil profiles and angle of attack to arrive at the optimal parameters for the Aero package to maximise downforce(negative lift) and minimise drag using Ansys Fluent for airflow simulations.
